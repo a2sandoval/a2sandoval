@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome traveler 👋
 
-<!--
-**a2sandoval/a2sandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alejandro Sandoval and I'm a fullstack MERN developer. ALways learning, very studious! 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on getting my portfolio nice and setsy. 
+- 🌱 I’m currently learning React and hope to master react-native! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📧 How To Reach Me
+- 🐣 [Twitter](https://twitter.com/sumnofacoder)
+- 💼 [LinkedIn](https://www.linkedin.com/in/a2sandoval/)
+
+
+
