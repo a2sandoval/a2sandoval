@@ -8,4 +8,4 @@ My name is Alejandro Sandoval and I'm a fullstack MERN developer. ALways learnin
 ### 📧 How To Reach Me
 - 🐣 [Twitter](https://twitter.com/sumnofacoder)
 - 💼 [LinkedIn](https://www.linkedin.com/in/a2sandoval/)
-- 📁 [Portfolio] (https://www.alealejandro.com)
+- 📁 [Portfolio](https://www.alealejandro.com)
